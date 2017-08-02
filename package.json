@@ -1,0 +1,22 @@
+{
+  "name": "@fattakhoff/fcc-npm",
+  "version": "2.0.0",
+  "description": "Going through how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "fattakhoff",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Fattakhoff/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fattakhoff/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/Fattakhoff/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
